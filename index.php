@@ -8,8 +8,8 @@
         <link rel="stylesheet" href="css/style.css" />
     </head>
     <body>
-        <header><div><h2>Welcome to Karen Fahey Business Solutions</h2></div></header> 
-        <main id="main"><div><h3>The website is currently under construction, please stay tuned</h2></div></main>
+        <header><div><h2 style="text-align: center; color: orangered;">Welcome to Karen Fahey Business Solutions</h2></div></header> 
+        <main id="main"><div><h3 style="text-align: center; color: orangered;">The website is currently under construction, please stay tuned</h2></div></main>
         <footer><p>&copy;2020 Karen Fahey</p></footer>        
     </body>
 </html>
