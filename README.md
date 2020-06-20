@@ -1,2 +1,2 @@
 # dotCA
-My personal website
+My personal/business website
